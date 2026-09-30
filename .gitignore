@@ -1,0 +1,18 @@
+# Build and compiled artifacts
+bin/
+target/
+*.class
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Operating System files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
